@@ -1,0 +1,5 @@
+- 👋 Moikka olen Markus Silvo
+- 👀 Olen kiinnostunut seuraavista: CLOUD, NETWORKING, NGINX, RTMP(S)
+- 🌱 Opettelen parhaillaan: NGINX, RTMP(S), PHP
+- 💞️ Etsin ja teen yhteistyötä seuraavissa asioissa: NGINX, RTMP(S), PHP ja Kielikäännökset
+- 📫 Tavoitat minut Gihubin ja sähköpostin kautta
