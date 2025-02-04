@@ -1,13 +1,13 @@
 # Moikka, olen Markus 👋  
-**Tervetuloa GitHub-profiiliini!** Olen ohjelmoinnista ja tietotekniikasta innostunut kehittäjä, jolla on monipuolista osaamista ja kokemusta alalta. Opiskelin tietotekniikkaa ja hankin taitoni datanomi- ja ICT-asentajaopinnoista sekä omien projektien kautta.
+**Tervetuloa GitHub-profiiliini!** Olen intohimoinen ohjelmoija ja tietotekniikan harrastaja, jolla on monipuolinen osaaminen sekä koulutuksesta että käytännön projekteista hankittu kokemus. Olen suorittanut datanomi- ja ICT-asentajaopinnot, ja syventänyt taitojani omien projektieni kautta.
 
 ### Mitä työn alla juuri nyt?  
-- 🐱‍👓 **Cloudflare:** Opettelen hyödyntämään Cloudflare-palvelua omissa projekteissani.  
-- 🍝 **Ohjelmointi & Palvelimet:** Syvennyn PHP:hen, JavaScriptiin, MySQL:ään ja NGINX:ään verkkosivujen ja palvelinten rakentamista varten.  
-- 👯 **Käännöstyö:** Etsin käännöstyön avustajia projektiin [XenForo Suomeksi](https://github.com/Markus-web/XenForo-suomeksi). Osallistuthan, jos sinulla on kiinnostusta!  
+- ☁️ **Cloudflare:** Opettelen hyödyntämään Cloudflare-palveluita omissa projekteissani, erityisesti suorituskyvyn parantamiseen ja turvallisuuteen liittyvissä ratkaisuissa.  
+- 💻 **Ohjelmointi & Palvelimet:** Syvennyn PHP:hen, JavaScriptiin, MySQL:ään ja NGINX:ään verkkosovellusten ja palvelinten kehittämisen parissa.  
+- 🌍 **Käännöstyö:** Etsin avustajia projektille [XenForo Suomeksi](https://github.com/Markus-web/XenForo-suomeksi). Jos olet kiinnostunut käännöstyöstä tai lokalisaatiosta, osallistu mukaan!  
 
 ### Taustani  
-Minulla on laaja-alaista tietoteknistä osaamista sekä koulutuksen että omien projektieni kautta. Opintoni datanomina ja ICT-asentajana ovat antaneet vahvan pohjan, jota olen täydentänyt käytännön kokemuksella ohjelmoinnista ja verkkopalveluiden kehittämisestä. Olen myös kiinnostunut luonnosta kuten linnuista ja valokuvauksesta, ja etsin jatkuvasti uusia haasteita, jotka yhdistävät teknologian ja luovuuden.
+Minulla on laaja-alainen tietotekninen osaaminen, joka ulottuu ohjelmoinnista verkkopalveluiden hallintaan. Datanomi- ja ICT-asentajaopinnot ovat antaneet minulle vankan perustan, jota olen täydentänyt monien käytännön projektien kautta. Olen myös luontoharrastaja, ja pidän erityisesti linnuista ja valokuvauksesta. Etsin jatkuvasti uusia haasteita, jotka yhdistävät teknologian ja luovuuden.
 
 ### GitHub-tilastoni  
 <a href="https://github.com/Markus-web">  
@@ -15,4 +15,4 @@ Minulla on laaja-alaista tietoteknistä osaamista sekä koulutuksen että omien 
 </a>  
 <a href="https://github.com/Markus-web">  
   <img align="center" height="150rem" src="https://github-readme-stats.vercel.app/api?username=Markus-web&show_icons=true&theme=merko" alt="Markus-web's GitHub Stats">  
-</a>
+</a>  
