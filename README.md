@@ -2,6 +2,8 @@
 
 **Tervetuloa GitHub-profiiliini!** Olen intohimoinen tietotekniikan harrastaja. Minulla on datanomin ja ICT-asentajan koulutus sekä monipuolista kokemusta erilaisten omien projektien parista.
 
+🌐 [Kotisivuni](https://markusmedia.fi/)
+
 ---
 
 ### 🔭 Mitä työn alla juuri nyt?
