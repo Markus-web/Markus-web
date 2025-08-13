@@ -1,48 +1,77 @@
 # Moikka, olen Markus 👋
 
-**Tervetuloa GitHub-profiiliini!** Olen intohimoinen tietotekniikan harrastaja. Minulla on datanomin ja ICT-asentajan koulutus sekä monipuolista kokemusta erilaisten omien projektien parista.
+Tervetuloa GitHub-profiiliini! Olen intohimoinen tietotekniikan harrastaja. Minulla on
+datanomin ja ICT-asentajan koulutus sekä monipuolista kokemusta omista
+projekteista – erityisesti web-kehityksessä ja palvelinympäristöissä.
 
-🌐 [Kotisivuni](https://markussilvo.fi/)
-🌐 [Markus Media](https://markusmedia.fi/)
+🌐 Kotisivut: [markussilvo.fi](https://markussilvo.fi/) • [Markus Media](https://markusmedia.fi/)
 
 ---
 
 ### 🔭 Mitä työn alla juuri nyt?
 
-*   ☁️ **Cloudflare:** Syvennyn Cloudflaren käyttöön suorituskyvyn optimoinnissa ja tietoturvan parantamisessa omissa projekteissani.
-*   💻 **Ohjelmointi & Palvelimet:** Kehitän taitojani PHP:n, JavaScriptin, MySQL:n ja NGINX:n parissa keskittyen verkkosovelluksiin ja palvelinympäristöihin.
-*   🌍 **Käännöstyö:** Etsin avustajia [XenForo Suomeksi](https://github.com/Markus-web/XenForo-suomeksi) -projektiin. Jos olet kiinnostunut käännöstyöstä tai lokalisaatiosta, tule mukaan!
+- ☁️ Cloudflare: syvennyn suorituskyvyn optimointiin ja tietoturvaan omissa
+  projekteissa (caching, WAF, R2, Pages).
+- 💻 Ohjelmointi & palvelimet: kehitystä PHP, JavaScript, MySQL ja NGINX
+  -pinossa, painotus verkkosovelluksiin ja infraan.
+- 🌍 Käännöstyö: etsin avustajia
+  [XenForo Suomeksi](https://github.com/Markus-web/XenForo-suomeksi) -projektiin.
+  Jos käännökset tai lokalisointi kiinnostavat, tule mukaan!
 
 ---
 
-### 💡 Osaaminen ja Teknologiat
+### 💡 Osaaminen ja teknologiat
 
-Tässä joitakin teknologioita ja työkaluja, joiden parissa työskentelen:
-
-*   **Kielet:** PHP, JavaScript, HTML, CSS, SQL
-*   **Palvelimet & Infra:** NGINX, MySQL, Linux, Cloudflare, Hetzner
-
----
-
-### 🌱 Tietoa minusta
-
-Datanomi- ja ICT-asentajaopintoni loivat vahvan pohjan tekniselle osaamiselleni, jota olen aktiivisesti syventänyt käytännön projektien kautta. Teknologia kiehtoo minua laajasti aina ohjelmoinnista verkkopalveluiden hallintaan.
-
-Vapaa-ajallani nautin luonnosta – erityisesti lintujen tarkkailu ja valokuvaus ovat lähellä sydäntäni. Etsin jatkuvasti uusia haasteita ja tapoja yhdistää teknologiaa ja luovuutta.
+- Kielet: PHP, JavaScript, HTML, CSS, SQL
+- Palvelimet & infra: NGINX, MySQL, Linux, Cloudflare, Hetzner
+- Muuta: Git, CI/CD, perusautomaatio ja valvonta
 
 ---
 
-### 📊 GitHub-tilastoni
+### 🌱 Minusta
+
+Datanomi- ja ICT-asentajaopintoni loivat vahvan pohjan tekniselle
+osaamiselleni, jota olen syventänyt käytännön projekteilla. Minua kiehtoo
+teknologia laajasti – ohjelmoinnista verkkopalveluiden hallintaan.
+
+Vapaa-ajalla nautin luonnosta: lintujen tarkkailu ja valokuvaus ovat lähellä
+sydäntä. Etsin jatkuvasti uusia haasteita ja tapoja yhdistää teknologiaa ja
+luovuutta. Tutustu lintuharrastukseeni ja sisältöihin myös sivulla
+[lintunetti.fi](https://lintunetti.fi/).
+
+---
+
+### 📌 Nostoja repositorioistani
+
+- XenForo Suomeksi – yhteisövoimin tehty käännösprojekti:
+  https://github.com/Markus-web/XenForo-suomeksi
+
+---
+
+### 📊 GitHub-tilastot
 
 <p align="center">
   <a href="https://github.com/Markus-web">
-    <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markus-web&layout=compact&theme=merko&hide_border=true" alt="Markus-web's Top Languages">
+    <img
+      height="150rem"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=Markus-web&layout=compact&theme=merko&hide_border=true"
+      alt="Markus-web top languages"
+    />
   </a>
   <a href="https://github.com/Markus-web">
-    <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=Markus-web&show_icons=true&theme=merko&hide_border=true" alt="Markus-web's GitHub Stats">
+    <img
+      height="150rem"
+      src="https://github-readme-stats.vercel.app/api?username=Markus-web&show_icons=true&theme=merko&hide_border=true"
+      alt="Markus-web GitHub stats"
+    />
   </a>
 </p>
 
 ---
 
-Olen avoin yhteistyölle ja uusille ideoille.
+### 🤝 Yhteistyö
+
+Olen avoin yhteistyölle ja uusille ideoille. Voit ottaa yhteyttä:
+
+- Kotisivu: https://markussilvo.fi/
+- Markus Media: https://markusmedia.fi/
