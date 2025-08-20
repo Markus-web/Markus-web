@@ -10,11 +10,11 @@ projekteista – erityisesti web-kehityksessä ja palvelinympäristöissä.
 
 ### 🔭 Mitä työn alla juuri nyt?
 
-- ☁️ Cloudflare: syvennyn suorituskyvyn optimointiin ja tietoturvaan omissa
+- Cloudflare: syvennyn suorituskyvyn optimointiin ja tietoturvaan omissa
   projekteissa (caching, WAF, R2, Pages).
-- 💻 Ohjelmointi & palvelimet: kehitystä PHP, JavaScript, MySQL ja NGINX
+- Ohjelmointi & palvelimet: kehitystä PHP, JavaScript, MySQL ja NGINX
   -pinossa, painotus verkkosovelluksiin ja infraan.
-- 🌍 Käännöstyö: etsin avustajia
+- Käännöstyö: etsin avustajia
   [XenForo Suomeksi](https://github.com/Markus-web/XenForo-suomeksi) -projektiin.
   Jos käännökset tai lokalisointi kiinnostavat, tule mukaan!
 
