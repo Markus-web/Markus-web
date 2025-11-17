@@ -1,77 +1,27 @@
-# Moikka, olen Markus 👋
+# Moikka, olen Markus
 
-Tervetuloa GitHub-profiiliini! Olen intohimoinen tietotekniikan harrastaja. Minulla on
-datanomin ja ICT-asentajan koulutus sekä monipuolista kokemusta omista
-projekteista – erityisesti web-kehityksessä ja palvelinympäristöissä.
-
-🌐 Kotisivut: [markussilvo.fi](https://markussilvo.fi/) • [Markus Media](https://markusmedia.fi/)
+Olen Full Stack -kehittäjä, joka syventää osaamistaan modernien web-teknologioiden parissa. Minulla on vankka pohja ICT-alalta ja tavoitteenani on rakentaa tehokkaita ja skaalautuvia verkkopalveluita.
 
 ---
 
-### 🔭 Mitä työn alla juuri nyt?
+### Työn alla
 
-- Cloudflare: syvennyn suorituskyvyn optimointiin ja tietoturvaan omissa
-  projekteissa (caching, WAF, R2, Pages).
-- Ohjelmointi & palvelimet: kehitystä PHP, JavaScript, MySQL ja NGINX
-  -pinossa, painotus verkkosovelluksiin ja infraan.
-- Käännöstyö: etsin avustajia
-  [XenForo Suomeksi](https://github.com/Markus-web/XenForo-suomeksi) -projektiin.
-  Jos käännökset tai lokalisointi kiinnostavat, tule mukaan!
+-   **Full Stack -opinnot (Helsingin yliopisto):** Aktiivinen perehtyminen moderniin web-kehitykseen, mukaan lukien React, Redux, Node.js, MongoDB, GraphQL ja TypeScript.
+-   **Cloudflare:** Suorituskyvyn ja tietoturvan optimointi omissa projekteissa (Caching, WAF, R2, Pages).
+-   **Yhteisöprojekti:** Etsin avustajia [XenForo Suomeksi](https://github.com/Markus-web/XenForo-suomeksi) -käännösprojektiin. Jos lokalisointi kiinnostaa, olet tervetullut mukaan.
 
 ---
 
-### 💡 Osaaminen ja teknologiat
+### Osaaminen ja teknologiat
 
-- Kielet: PHP, JavaScript, HTML, CSS, SQL
-- Palvelimet & infra: NGINX, MySQL, Linux, Cloudflare, Hetzner
-- Muuta: Git, CI/CD, perusautomaatio ja valvonta
-
----
-
-### 🌱 Minusta
-
-Datanomi- ja ICT-asentajaopintoni loivat vahvan pohjan tekniselle
-osaamiselleni, jota olen syventänyt käytännön projekteilla. Minua kiehtoo
-teknologia laajasti – ohjelmoinnista verkkopalveluiden hallintaan.
-
-Vapaa-ajalla nautin luonnosta: lintujen tarkkailu ja valokuvaus ovat lähellä
-sydäntä. Etsin jatkuvasti uusia haasteita ja tapoja yhdistää teknologiaa ja
-luovuutta. Tutustu lintuharrastukseeni ja sisältöihin myös sivulla
-[lintunetti.fi](https://lintunetti.fi/).
+-   **Ydinosaaminen:** PHP, JavaScript (ES6+), SQL, HTML/CSS, Linux, NGINX, MySQL, Git
+-   **Aktiivisessa opiskelussa:** React, Node.js, TypeScript, MongoDB, GraphQL
+-   **Infrastruktuuri ja työkalut:** Cloudflare, Hetzner, CI/CD, Bash-skriptaus
 
 ---
 
-### 📌 Nostoja repositorioistani
+### Minusta
 
-- XenForo Suomeksi – yhteisövoimin tehty käännösprojekti:
-  https://github.com/Markus-web/XenForo-suomeksi
+Minua ajaa eteenpäin halu ratkaista ongelmia ja oppia jatkuvasti uutta. Teknisen osaamiseni lisäksi olen luova ja analyyttinen ajattelija.
 
----
-
-### 📊 GitHub-tilastot
-
-<p align="center">
-  <a href="https://github.com/Markus-web">
-    <img
-      height="150rem"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=Markus-web&layout=compact&theme=merko&hide_border=true"
-      alt="Markus-web top languages"
-    />
-  </a>
-  <a href="https://github.com/Markus-web">
-    <img
-      height="150rem"
-      src="https://github-readme-stats.vercel.app/api?username=Markus-web&show_icons=true&theme=merko&hide_border=true"
-      alt="Markus-web GitHub stats"
-    />
-  </a>
-</p>
-
----
-
-### 🤝 Yhteistyö
-
-Olen avoin yhteistyölle ja uusille ideoille. Voit ottaa yhteyttä:
-
-- Kotisivu: https://markussilvo.fi/
-- Markus Media: https://markusmedia.fi/
+Vapaa-ajalla koodaaminen saa vastapainoa pyöräilystä, valokuvauksesta ja luonnosta. Erityisenä kiinnostuksen kohteena on lintujen äänittäminen ja tunnistaminen.
