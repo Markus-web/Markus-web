@@ -1,53 +1,78 @@
 # Markus Silvo
 
-![Profile Views](https://komarev.com/ghpvc/?username=Markus-web&color=blue&style=flat-square)
+**Tietotekniikan ammattilainen** · verkkopalvelut, WordPress ja IT-tuki · Salo, Suomi
 
-**Tietotekniikan ammattilainen** | Verkkosivujen kehittäjä ja IT-ongelmien ratkaisija
-*Teen monimutkaiset asiat yksinkertaisiksi.* — Salo, Suomi
+Internetti ei saa olla este, vaan mahdollistaja. Teen monimutkaisesta ymmärrettävää.
 
-### Projektit
-* **[Lintunetti.fi](https://lintunetti.fi)** – IoT-lintuhavaintoverkosto (Raspberry Pi, BirdNET-Pi, Cloudflare)
-* **[KATTI.NET](https://katti.net)** – Docker-pohjainen ilmaisten palveluiden ja kotiverkon alusta
-* **[Markus Media](https://markusmedia.fi)** – Oma WordPress- ja IT-tukiyritykseni
-* **[AvantClub.fi](https://avantclub.fi)** – Pienkuormaajien yhteisöfoorumi (XenForo-migraatio ja ylläpito)
-* **[XenForo Suomeksi](https://github.com/Markus-web/XenForo-suomeksi)** – Foorumialustan suomennosprojekti
+### Työ
+
+- **[Markus Media](https://markusmedia.fi)** — WordPress-sivustot, ylläpito ja IT-tuki yrityksille
+- **[markussilvo.fi](https://markussilvo.fi)** — henkilökohtainen sivusto
+
+### Julkiset projektit
+
+- **[Lintunetti.fi](https://lintunetti.fi)** — IoT-lintuhavaintoverkosto (Raspberry Pi, BirdNET-Pi, Cloudflare)
+- **[KATTI.NET](https://katti.net)** — kotiverkon ja ilmaisten palveluiden Docker-alusta
+- **[AvantClub.fi](https://avantclub.fi)** — pienkuormaajien yhteisöfoorumi (XenForo)
+
+### Avoimen lähdekoodin suomennokset
+
+- **[XenForo Finnish](https://github.com/Markus-web/XenForo-Finnish-Translation)** — XenForo-ydin, lisäosat ja tyylit
+- **[BookingPress Finnish](https://github.com/Markus-web/BookingPress-Finnish-Translation)** — BookingPress Lite, Pro ja lisäosat
+- **[Perfex CRM Finnish](https://github.com/Markus-web/Perfex-CRM-Finnish-Translation)** — Perfex CRM
+
+### Asiakastyötä (valikoima)
+
+[Parturi Naava](https://parturinaava.fi) · [Salon Klubitalo](https://salonklubitalo.fi) · [Kat-Salo](https://katsalo.fi) · [NuortenHelppi](https://nuortenhelppi.fi) · [Salon Vilpas](https://salonvilpas.fi)
 
 ### Osaaminen
-* **Infrastruktuuri:** Linux, Docker, NGINX, Cloudflare, Raspberry Pi, Synology
-* **Ohjelmointi & Tietokannat:** PHP, Python, Bash, MySQL, TypeScript, Node.js, React
-* **Alustat:** WordPress, XenForo, Microsoft 365, CloudPanel
 
-### Portfolio
-[Parturi Naava](https://parturinaava.fi) • [Salon Klubitalo](https://salonklubitalo.fi) • [Kat-Salo](https://katsalo.fi) • [NuortenHelppi](https://nuortenhelppi.fi) • [Salon Vilpas](https://salonvilpas.fi)
+- **Infrastruktuuri:** Linux, Docker, NGINX, Cloudflare, Raspberry Pi, Synology
+- **Kehitys:** PHP, Python, Bash, TypeScript, Node.js, React, MySQL
+- **Alustat:** WordPress, XenForo, Microsoft 365, CloudPanel
 
-### Ota yhteyttä
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/markussilvo)
-[![Website](https://img.shields.io/badge/markussilvo.fi-000000?style=flat-square&logo=About.me&logoColor=white)](https://markussilvo.fi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:markus@markusmedia.fi)
+### Yhteystiedot
+
+[LinkedIn](https://linkedin.com/in/markussilvo) · [markussilvo.fi](https://markussilvo.fi) · [markus@markusmedia.fi](mailto:markus@markusmedia.fi)
 
 ---
 
 <details>
 <summary><strong>In English</strong></summary>
 
-<br>
+**IT professional** · web services, WordPress and IT support · Salo, Finland
 
-**IT Professional** | Web Developer and IT Problem Solver
-*I make complex things simple.* — Salo, Finland
+The internet should enable, not block. I turn complex systems into something people can use.
 
-### Projects
-* **[Lintunetti.fi](https://lintunetti.fi)** – IoT Bird Observation Network
-* **[KATTI.NET](https://katti.net)** – Free Internet Services & Docker Home Network platform
-* **[Markus Media](https://markusmedia.fi)** – My WordPress website and IT support company
-* **[AvantClub.fi](https://avantclub.fi)** – Compact loader community forum
-* **[XenForo Finnish](https://github.com/Markus-web/XenForo-suomeksi)** – Finnish translation project
+### Work
 
-### Tech Stack
-* **Infrastructure:** Linux, Docker, NGINX, Cloudflare, Raspberry Pi, Synology
-* **Development & Databases:** PHP, Python, Bash, MySQL, TypeScript, Node.js, React
-* **Platforms:** WordPress, XenForo, Microsoft 365, CloudPanel
+- **[Markus Media](https://markusmedia.fi)** — WordPress sites, hosting care and IT support for businesses
+- **[markussilvo.fi](https://markussilvo.fi)** — personal site
 
-### Portfolio
-[Parturi Naava](https://parturinaava.fi) • [Salon Klubitalo](https://salonklubitalo.fi) • [Kat-Salo](https://katsalo.fi) • [NuortenHelppi](https://nuortenhelppi.fi) • [Salon Vilpas](https://salonvilpas.fi)
+### Public projects
+
+- **[Lintunetti.fi](https://lintunetti.fi)** — IoT bird observation network
+- **[KATTI.NET](https://katti.net)** — Docker platform for home network and free services
+- **[AvantClub.fi](https://avantclub.fi)** — compact loader community forum (XenForo)
+
+### Open-source Finnish translations
+
+- **[XenForo Finnish](https://github.com/Markus-web/XenForo-Finnish-Translation)**
+- **[BookingPress Finnish](https://github.com/Markus-web/BookingPress-Finnish-Translation)**
+- **[Perfex CRM Finnish](https://github.com/Markus-web/Perfex-CRM-Finnish-Translation)**
+
+### Selected client work
+
+[Parturi Naava](https://parturinaava.fi) · [Salon Klubitalo](https://salonklubitalo.fi) · [Kat-Salo](https://katsalo.fi) · [NuortenHelppi](https://nuortenhelppi.fi) · [Salon Vilpas](https://salonvilpas.fi)
+
+### Stack
+
+Infrastructure: Linux, Docker, NGINX, Cloudflare, Raspberry Pi, Synology.  
+Development: PHP, Python, Bash, TypeScript, Node.js, React, MySQL.  
+Platforms: WordPress, XenForo, Microsoft 365, CloudPanel.
+
+### Contact
+
+[LinkedIn](https://linkedin.com/in/markussilvo) · [markussilvo.fi](https://markussilvo.fi) · [markus@markusmedia.fi](mailto:markus@markusmedia.fi)
 
 </details>
