@@ -8,6 +8,7 @@ This public repository renders the GitHub profile for `Markus-web`. Keep it smal
 - `CONTRIBUTING.md` defines the maintenance and publication checklist.
 - `scripts/check_public_profile.py` is the reusable validation entry point.
 - `.github/workflows/profile-check.yml` runs the same validation in GitHub Actions.
+- `.github/dependabot.yml` keeps pinned GitHub Actions revisions current.
 
 ## Editing rules
 
