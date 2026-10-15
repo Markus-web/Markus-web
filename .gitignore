@@ -1,0 +1,12 @@
+.DS_Store
+*.bak
+*.key
+*.pem
+*.p12
+*.pfx
+*.sqlite*
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]

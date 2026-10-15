@@ -2,38 +2,38 @@
 
 **Tietotekniikan ammattilainen** · verkkopalvelut, WordPress ja IT-tuki · Salo, Suomi
 
-Internetti ei saa olla este, vaan mahdollistaja. Teen monimutkaisesta ymmärrettävää.
+Internetti ei saa olla este, vaan mahdollistaja. Teen monimutkaisista järjestelmistä ymmärrettäviä, saavutettavia ja ylläpidettäviä.
 
-### Työ
+## Työ
 
 - **[Markus Media](https://markusmedia.fi)** — WordPress-sivustot, ylläpito ja IT-tuki yrityksille
 - **[markussilvo.fi](https://markussilvo.fi)** — henkilökohtainen sivusto
 
-### Julkiset projektit
+## Avoin lähdekoodi
 
-- **[Lintunetti.fi](https://lintunetti.fi)** — IoT-lintuhavaintoverkosto (Raspberry Pi, BirdNET-Pi, Cloudflare)
-- **[KATTI.NET](https://katti.net)** — kotiverkon ja ilmaisten palveluiden Docker-alusta
-- **[AvantClub.fi](https://avantclub.fi)** — pienkuormaajien yhteisöfoorumi (XenForo)
+- **[XenForo Finnish](https://github.com/Markus-web/XenForo-Finnish-Translation)** — XenForon ytimen, lisäosien ja tyylien suomennoksia
+- **[BookingPress Finnish](https://github.com/Markus-web/BookingPress-Finnish-Translation)** — BookingPress Liten, Pron ja lisäosien suomennoksia
+- **[Perfex CRM Finnish](https://github.com/Markus-web/Perfex-CRM-Finnish-Translation)** — Perfex CRM:n suomennos
+- **[Pencil contributions](https://github.com/Markus-web/pencil-by-rino-contrib)** — WordPressin visuaalisen sisältöeditorin ylläpitoon liittyviä muutoksia
 
-### Avoimen lähdekoodin suomennokset
+## Julkisia palveluita
 
-- **[XenForo Finnish](https://github.com/Markus-web/XenForo-Finnish-Translation)** — XenForo-ydin, lisäosat ja tyylit
-- **[BookingPress Finnish](https://github.com/Markus-web/BookingPress-Finnish-Translation)** — BookingPress Lite, Pro ja lisäosat
-- **[Perfex CRM Finnish](https://github.com/Markus-web/Perfex-CRM-Finnish-Translation)** — Perfex CRM
+- **[Lintunetti.fi](https://lintunetti.fi)** — IoT-lintuhavaintoverkosto
+- **[AvantClub.fi](https://avantclub.fi)** — pienkuormaajien yhteisöfoorumi
 
-### Asiakastyötä (valikoima)
+## Asiakastyötä
 
 [Parturi Naava](https://parturinaava.fi) · [Salon Klubitalo](https://salonklubitalo.fi) · [Kat-Salo](https://katsalo.fi) · [NuortenHelppi](https://nuortenhelppi.fi) · [Salon Vilpas](https://salonvilpas.fi)
 
-### Osaaminen
+## Osaaminen
 
-- **Infrastruktuuri:** Linux, Docker, NGINX, Cloudflare, Raspberry Pi, Synology
-- **Kehitys:** PHP, Python, Bash, TypeScript, Node.js, React, MySQL
-- **Alustat:** WordPress, XenForo, Microsoft 365, CloudPanel
+- **Verkkopalvelut:** WordPress, XenForo, saavutettavuus, ylläpito ja tietoturva
+- **Infrastruktuuri:** Linux, Docker, Nginx, Cloudflare ja Microsoft 365
+- **Kehitys:** PHP, Python, Bash, TypeScript, Node.js, React ja MySQL
 
-### Yhteystiedot
+## Yhteys
 
-[LinkedIn](https://linkedin.com/in/markussilvo) · [markussilvo.fi](https://markussilvo.fi) · [markus@markusmedia.fi](mailto:markus@markusmedia.fi)
+[LinkedIn](https://www.linkedin.com/in/markussilvo) · [markussilvo.fi](https://markussilvo.fi) · [markus@markusmedia.fi](mailto:markus@markusmedia.fi)
 
 ---
 
@@ -42,37 +42,37 @@ Internetti ei saa olla este, vaan mahdollistaja. Teen monimutkaisesta ymmärrett
 
 **IT professional** · web services, WordPress and IT support · Salo, Finland
 
-The internet should enable, not block. I turn complex systems into something people can use.
+The internet should enable, not block. I make complex systems understandable, accessible and maintainable.
 
 ### Work
 
-- **[Markus Media](https://markusmedia.fi)** — WordPress sites, hosting care and IT support for businesses
-- **[markussilvo.fi](https://markussilvo.fi)** — personal site
+- **[Markus Media](https://markusmedia.fi)** — WordPress sites, maintenance and IT support for businesses
+- **[markussilvo.fi](https://markussilvo.fi)** — personal website
 
-### Public projects
+### Open source
+
+- **[XenForo Finnish](https://github.com/Markus-web/XenForo-Finnish-Translation)** — Finnish translations for XenForo core, add-ons and styles
+- **[BookingPress Finnish](https://github.com/Markus-web/BookingPress-Finnish-Translation)** — Finnish translations for BookingPress Lite, Pro and add-ons
+- **[Perfex CRM Finnish](https://github.com/Markus-web/Perfex-CRM-Finnish-Translation)** — Finnish translation for Perfex CRM
+- **[Pencil contributions](https://github.com/Markus-web/pencil-by-rino-contrib)** — maintenance work on a visual content editor for WordPress
+
+### Public services
 
 - **[Lintunetti.fi](https://lintunetti.fi)** — IoT bird observation network
-- **[KATTI.NET](https://katti.net)** — Docker platform for home network and free services
-- **[AvantClub.fi](https://avantclub.fi)** — compact loader community forum (XenForo)
-
-### Open-source Finnish translations
-
-- **[XenForo Finnish](https://github.com/Markus-web/XenForo-Finnish-Translation)**
-- **[BookingPress Finnish](https://github.com/Markus-web/BookingPress-Finnish-Translation)**
-- **[Perfex CRM Finnish](https://github.com/Markus-web/Perfex-CRM-Finnish-Translation)**
+- **[AvantClub.fi](https://avantclub.fi)** — compact-loader community forum
 
 ### Selected client work
 
 [Parturi Naava](https://parturinaava.fi) · [Salon Klubitalo](https://salonklubitalo.fi) · [Kat-Salo](https://katsalo.fi) · [NuortenHelppi](https://nuortenhelppi.fi) · [Salon Vilpas](https://salonvilpas.fi)
 
-### Stack
+### Skills
 
-Infrastructure: Linux, Docker, NGINX, Cloudflare, Raspberry Pi, Synology.  
-Development: PHP, Python, Bash, TypeScript, Node.js, React, MySQL.  
-Platforms: WordPress, XenForo, Microsoft 365, CloudPanel.
+- **Web services:** WordPress, XenForo, accessibility, maintenance and security
+- **Infrastructure:** Linux, Docker, Nginx, Cloudflare and Microsoft 365
+- **Development:** PHP, Python, Bash, TypeScript, Node.js, React and MySQL
 
 ### Contact
 
-[LinkedIn](https://linkedin.com/in/markussilvo) · [markussilvo.fi](https://markussilvo.fi) · [markus@markusmedia.fi](mailto:markus@markusmedia.fi)
+[LinkedIn](https://www.linkedin.com/in/markussilvo) · [markussilvo.fi](https://markussilvo.fi) · [markus@markusmedia.fi](mailto:markus@markusmedia.fi)
 
 </details>
