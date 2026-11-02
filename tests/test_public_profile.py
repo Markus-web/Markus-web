@@ -29,6 +29,22 @@ class PublicProfileChecks(unittest.TestCase):
         markdown = "[Site](https://example.com) [Again](https://example.com) ![Logo](https://example.com/logo.png)"
         self.assertEqual(CHECKER.extract_links(markdown), ["https://example.com"])
 
+    def test_prose_rules_catch_dashes_speed_and_hidden_page(self) -> None:
+        self.assertEqual(CHECKER.scan_prose("Työ \u2014 Markus Media"), {"em or en dash"})
+        self.assertEqual(CHECKER.scan_prose("Opin uudet järjestelmät nopeasti."), {"speed claim"})
+        self.assertEqual(CHECKER.scan_prose("I learn fast."), {"speed claim"})
+        self.assertEqual(
+            CHECKER.scan_prose("[Työnhaku](https://markussilvo.fi/sivu/tyo)"),
+            {"link to the semi-hidden job page"},
+        )
+
+    def test_prose_rules_allow_the_current_wording(self) -> None:
+        text = "Ohjelmisto-, laite- ja verkko-ongelmat · Salo, Suomi · 2025 alkaen"
+        self.assertEqual(CHECKER.scan_prose(text), set())
+
+    def test_current_readme_passes_the_contract(self) -> None:
+        self.assertEqual(CHECKER.check_readme_contract(), [])
+
 
 if __name__ == "__main__":
     unittest.main()

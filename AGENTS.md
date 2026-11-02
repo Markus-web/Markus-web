@@ -19,6 +19,8 @@ This public repository renders the GitHub profile for `Markus-web`. Keep it smal
 - Prefer plain Markdown. Do not add generated statistics, visitor counters, skill-logo walls or decorative animation.
 - Do not describe a project, customer relationship or skill unless it can be verified from a public source or by the maintainer.
 - Keep scripts dependency-free when the Python standard library is sufficient.
+- Facts and wording follow markussilvo.fi and the job-search voice rules (megarepo `Mautic/voice.md`): "IT-osaaja", "web-palvelimet", "vakituista työpaikkaa, mieluiten kokopäiväistä", wishes instead of terms for places. The validator enforces three of them: no em or en dashes (use a colon, comma or period), no speed claims ("nopeasti", "fast"), and no link to the semi-hidden job landing `markussilvo.fi/sivu/tyo` or `/sivu/palaute`.
+- When the CV facts change (role, experience, projects), update markussilvo.fi (`markussilvo-website/emdash/seed/seed.json`) and this README in the same pass.
 
 ## Verification
 

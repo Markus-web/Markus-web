@@ -32,6 +32,16 @@ SECRET_RULES = {
 }
 
 LOCAL_PATH = re.compile(r"/home/([A-Za-z0-9._-]+)/")
+# Copy rules shared with markussilvo.fi (megarepo Mautic/voice.md): no em or en dashes, no
+# speed claims, and the job landing markussilvo.fi/sivu/tyo stays semi-hidden (never linked).
+PROSE_RULES = {
+    "em or en dash": re.compile("[\u2013\u2014]"),
+    "speed claim": re.compile(
+        r"\b(?:nopea\w*|nopeasti|ripeä\w*|ripeästi|salamannopea\w*|vauhdik\w*|pikaise\w*|fast|quick(?:ly)?|rapid(?:ly)?)\b",
+        re.IGNORECASE,
+    ),
+    "link to the semi-hidden job page": re.compile(r"markussilvo\.fi/sivu/(?:tyo|palaute)", re.IGNORECASE),
+}
 MARKDOWN_LINK = re.compile(r"(?<!!)\[[^\]]+\]\((https?://[^)\s]+)\)")
 
 
@@ -110,7 +120,12 @@ def check_readme_contract() -> list[str]:
             findings.append(f"README.md: missing required section: {marker}")
     if text.count("<details>") != text.count("</details>"):
         findings.append("README.md: unbalanced details element")
+    findings.extend(f"README.md: {rule}" for rule in sorted(scan_prose(text)))
     return findings
+
+
+def scan_prose(text: str) -> set[str]:
+    return {name for name, pattern in PROSE_RULES.items() if pattern.search(text)}
 
 
 def extract_links(text: str) -> list[str]:
