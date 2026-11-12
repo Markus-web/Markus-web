@@ -19,8 +19,8 @@ This public repository renders the GitHub profile for `Markus-web`. Keep it smal
 - Prefer plain Markdown. Do not add generated statistics, visitor counters, skill-logo walls or decorative animation.
 - Do not describe a project, customer relationship or skill unless it can be verified from a public source or by the maintainer.
 - Keep scripts dependency-free when the Python standard library is sufficient.
-- Facts and wording follow markussilvo.fi and the job-search voice rules (megarepo `Mautic/voice.md`): "IT-osaaja", "web-palvelimet", "vakituista työpaikkaa, mieluiten kokopäiväistä", wishes instead of terms for places. The validator enforces three of them: no em or en dashes (use a colon, comma or period), no speed claims ("nopeasti", "fast"), and no link to the semi-hidden job landing `markussilvo.fi/sivu/tyo` or `/sivu/palaute`.
-- When the CV facts change (role, experience, projects), update markussilvo.fi (`markussilvo-website/emdash/seed/seed.json`) and this README in the same pass.
+- Facts and wording follow markussilvo.fi and the job-search voice rules (megarepo `Mautic/voice.md`): "IT-tukihenkilö" (since 2026-11-12; was "IT-osaaja"), "web-palvelimet", "vakituista työpaikkaa, mieluiten kokopäiväistä", wishes instead of terms for places. The validator enforces three of them: no em or en dashes (use a colon, comma or period), no speed claims ("nopeasti", "fast"), and no link to the semi-hidden job landing `markussilvo.fi/sivu/tyo` or `/sivu/palaute`.
+- CV facts have one source: `markussilvo-website/emdash/src/data/cv/cv.json` (role, experience, education, projects; the public CV at markussilvo.fi/cv is built from it). Change that file first, run `npm run cv:export` there, then update this README in the same pass. `--cv-facts` checks the README against the generated `cv.public.json` (role in both languages, current Salon Vilpas start, no stale wording such as "2025 alkaen").
 
 ## Verification
 
@@ -30,6 +30,7 @@ Run before every commit:
 python3 -m unittest discover -s tests -v
 python3 scripts/check_public_profile.py --history
 python3 scripts/check_public_profile.py --links
+python3 scripts/check_public_profile.py --cv-facts ../markussilvo-website/emdash/src/data/cv/cv.public.json   # local only
 ```
 
 The first two commands must pass. A link failure must be investigated; do not silently allow a missing page.

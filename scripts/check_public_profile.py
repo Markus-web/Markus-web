@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import argparse
+import json
 import re
 import subprocess
 import sys
@@ -124,6 +125,26 @@ def check_readme_contract() -> list[str]:
     return findings
 
 
+def check_cv_facts(text: str, cv: dict) -> list[str]:
+    """Compare the README with markussilvo.fi's CV facts (the site repo's cv.public.json, generated
+    from emdash/src/data/cv/cv.json): role in both languages, current Salon Vilpas start, no stale
+    wording. Local only: CI has no sibling site checkout."""
+    findings: list[str] = []
+    for lang in ("fi", "en"):
+        role = cv["role"][lang]
+        if role.lower() not in text.lower():
+            findings.append(f"README.md: CV role ({lang}) not named: {role}")
+    for row in cv["experience"]:
+        if row["current"] and "Vilpas" in row["org"]:
+            start = row["period_site"].split(" ")[0]
+            if start not in text:
+                findings.append(f"README.md: current Salon Vilpas start {start} missing")
+    for term in cv["stale"]:
+        if term.lower() in text.lower():
+            findings.append(f"README.md: stale CV wording: {term}")
+    return findings
+
+
 def scan_prose(text: str) -> set[str]:
     return {name for name, pattern in PROSE_RULES.items() if pattern.search(text)}
 
@@ -168,6 +189,11 @@ def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--history", action="store_true", help="scan all reachable Git blobs")
     parser.add_argument("--links", action="store_true", help="check external README links")
+    parser.add_argument(
+        "--cv-facts",
+        type=Path,
+        help="markussilvo-website/emdash/src/data/cv/cv.public.json: README must match the CV facts",
+    )
     args = parser.parse_args()
 
     findings = scan_current_tree() + check_readme_contract()
@@ -175,6 +201,9 @@ def main() -> int:
         findings.extend(scan_history())
     if args.links:
         findings.extend(check_links())
+    if args.cv_facts:
+        cv = json.loads(args.cv_facts.read_text(encoding="utf-8"))
+        findings.extend(check_cv_facts(README.read_text(encoding="utf-8"), cv))
 
     if findings:
         print("Public profile validation failed:", file=sys.stderr)

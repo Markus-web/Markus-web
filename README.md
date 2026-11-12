@@ -1,16 +1,21 @@
 # Markus Silvo
 
-**IT-osaaja** · verkkosivut, web-palvelimet ja IT-tuki · Salo, Suomi
+**IT-tukihenkilö** · käyttötuki ja laitteet paikan päällä, verkkosivut ja web-palvelimet · Salo, Suomi
 
 Olen töissä ja etsin vakituista työpaikkaa, mieluiten kokopäiväistä. Toivoisin eniten paikkaa Tampereelta tai Pirkanmaalta, mutta Turku ja Salo käyvät yhtä lailla. Hybridi tai täysin etänä käy myös.
 
-En hae vain työpaikkaa. Haluan paikan, jossa pääsisin käyttämään osaamistani ja oppimaan lisää tekemällä.
+En hae vain työpaikkaa. Haluan paikan, jossa pääsisin auttamaan ihmisiä tietokoneiden, puhelinten ja ohjelmien kanssa ja oppimaan lisää tekemällä.
+
+Ansioluettelo (PDF ja DOCX, suomi ja englanti): [markussilvo.fi/cv](https://markussilvo.fi/cv)
 
 ## Työ ja kokemus
 
-- **Salon Vilpas ry** (2025 alkaen): seuran sivut ja toimisto, osa-aikainen
+- **Exit Games Salo** (8/2026 alkaen): pelinohjaaja, asiakaspalvelu paikan päällä
+- **Salon Vilpas ry** (4/2026 alkaen): seuratyöntekijä, osa-aikainen. Seuran sivut ja omat järjestelmät: [salonvilpas.fi](https://salonvilpas.fi), Tupurin majan varausjärjestelmä ja kirpputorin kassa
+- **Salon Vilpas ry** (1-4/2025): työkokeilu, verkkosivut ja toimisto
 - **2M-IT Oy** (2024): Service Desk, ohjelmisto-, laite- ja verkko-ongelmat
-- **Lounea Oy** (2017): työkokeilu, jossa tutustuin Mauticiin ensimmäisen kerran
+- **Salon Klubitalo ry** (8/2021-4/2023): IT-tuki ja toimistotyö, laitteiden käytön opastus jäsenille ja henkilökunnalle
+- **Lounea Palvelut Oy** (2017): työkokeilu, jossa tutustuin Mauticiin ensimmäisen kerran
 - **[Markus Media](https://markusmedia.fi)**: WordPress-sivustot, ylläpito ja IT-tuki yrityksille
 - **Koulutus:** datanomi 2014, ICT-asentaja 2019
 
@@ -35,6 +40,7 @@ En hae vain työpaikkaa. Haluan paikan, jossa pääsisin käyttämään osaamist
 
 ## Osaaminen
 
+- **Käyttötuki:** laitteiden käytön opastus, käyttöönotot ja vianetsintä, Windows ja Microsoft 365, Service Desk
 - **Palvelimet:** Linux (Debian/Ubuntu), NGINX, Docker, Hetzner, Windows ja Microsoft 365
 - **Web:** WordPress, XenForo, PHP, MySQL, HTML/CSS, JavaScript/TypeScript ja Astro
 - **Cloudflare:** Workers, Pages, D1 ja R2
@@ -50,17 +56,22 @@ En hae vain työpaikkaa. Haluan paikan, jossa pääsisin käyttämään osaamist
 <details>
 <summary><strong>In English</strong></summary>
 
-**IT professional** · websites, web servers and IT support · Salo, Finland
+**IT support specialist** · on-site user and device support, websites and web servers · Salo, Finland
 
 I am employed and looking for a permanent job, preferably full-time. I would most like a role in Tampere or Pirkanmaa, but Turku and Salo work just as well. Hybrid or fully remote is also fine.
 
-I am not just looking for any job. I want a place where I could use what I know and keep learning by doing.
+I am not just looking for any job. I want a place where I can help people with computers, phones and software and keep learning by doing.
+
+CV (PDF and DOCX, Finnish and English): [markussilvo.fi/cv](https://markussilvo.fi/cv)
 
 ### Work and experience
 
-- **Salon Vilpas ry** (since 2025): the club's websites and office, part-time
+- **Exit Games Salo** (since 8/2026): game master, on-site customer service
+- **Salon Vilpas ry** (since 4/2026): club employee, part-time. The club's website and own systems: [salonvilpas.fi](https://salonvilpas.fi), a venue booking system and a flea-market point of sale
+- **Salon Vilpas ry** (1-4/2025): work trial, website and office
 - **2M-IT Oy** (2024): Service Desk, software, hardware and network issues
-- **Lounea Oy** (2017): work trial where I first used Mautic
+- **Salon Klubitalo ry** (8/2021-4/2023): IT support and office work, guiding members and staff in using their devices
+- **Lounea Palvelut Oy** (2017): work trial where I first used Mautic
 - **[Markus Media](https://markusmedia.fi)**: WordPress sites, maintenance and IT support for businesses
 - **Education:** datanomi (ICT vocational qualification) 2014, ICT installer 2019
 
@@ -85,6 +96,7 @@ I am not just looking for any job. I want a place where I could use what I know 
 
 ### Skills
 
+- **User support:** guiding people with devices, setup and troubleshooting, Windows and Microsoft 365, Service Desk
 - **Servers:** Linux (Debian/Ubuntu), NGINX, Docker, Hetzner, Windows and Microsoft 365
 - **Web:** WordPress, XenForo, PHP, MySQL, HTML/CSS, JavaScript/TypeScript and Astro
 - **Cloudflare:** Workers, Pages, D1 and R2

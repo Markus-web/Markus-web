@@ -25,6 +25,20 @@ class PublicProfileChecks(unittest.TestCase):
     def test_allows_documentation_placeholders(self) -> None:
         self.assertEqual(CHECKER.scan_text("/home/user/project /home/runner/work"), set())
 
+    def test_cv_facts_match(self) -> None:
+        cv = {
+            "role": {"fi": "IT-tukihenkilö", "en": "IT support specialist"},
+            "experience": [{"org": "Salon Vilpas ry", "current": True, "period_site": "4/2026 alkaen"}],
+            "stale": ["2025 alkaen"],
+        }
+        good = "**IT-tukihenkilö** ... Salon Vilpas ry (4/2026 alkaen) ... IT support specialist"
+        self.assertEqual(CHECKER.check_cv_facts(good, cv), [])
+        stale = "IT-osaaja, Salon Vilpas ry (2025 alkaen), IT professional"
+        findings = " ".join(CHECKER.check_cv_facts(stale, cv))
+        self.assertIn("role (fi)", findings)
+        self.assertIn("4/2026", findings)
+        self.assertIn("stale", findings)
+
     def test_extracts_unique_http_links_and_skips_images(self) -> None:
         markdown = "[Site](https://example.com) [Again](https://example.com) ![Logo](https://example.com/logo.png)"
         self.assertEqual(CHECKER.extract_links(markdown), ["https://example.com"])
