@@ -11,7 +11,7 @@ Käyttötuki, verkkosivut ja web-palvelimet. Etsin vakituista työpaikkaa Salon,
 
 ## Projektit
 
-[Kotisivu.org](https://kotisivu.org) · [Lintunetti.fi](https://lintunetti.fi) · [AvantClub.fi](https://avantclub.fi)
+[Hyllyri](https://hyllyri.fi) · [Kotisivu.org](https://kotisivu.org) · [Lintunetti.fi](https://lintunetti.fi) · [AvantClub.fi](https://avantclub.fi) · [Nuottitreeni](https://piano.markussilvo.fi) · [Operaatio Pullakahvi](https://pelinurkka.fi) · [Lobbaan.fi](https://lobbaan.fi)
 
 ## Avoin lähdekoodi
 
@@ -44,7 +44,7 @@ User support, websites and web servers. Looking for a permanent job in the Salo,
 
 ### Projects
 
-[Kotisivu.org](https://kotisivu.org) · [Lintunetti.fi](https://lintunetti.fi) · [AvantClub.fi](https://avantclub.fi)
+[Hyllyri](https://hyllyri.fi) · [Kotisivu.org](https://kotisivu.org) · [Lintunetti.fi](https://lintunetti.fi) · [AvantClub.fi](https://avantclub.fi) · [Nuottitreeni](https://piano.markussilvo.fi) · [Operaatio Pullakahvi](https://pelinurkka.fi) · [Lobbaan.fi](https://lobbaan.fi)
 
 ### Open source
 
