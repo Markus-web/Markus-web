@@ -2,7 +2,7 @@
 
 **IT-tukihenkilö** · Salo
 
-Käyttötuki, verkkosivut ja web-palvelimet. Etsin vakituista työpaikkaa Salon, Turun tai Tampereen seudulta. [Ansioluettelo](https://markussilvo.fi/cv)
+Käyttötuki, verkkosivut ja web-palvelimet. Etsin vakituista työpaikkaa Salon, Turun tai Tampereen seudulta, myös hybridinä tai etätyönä. [Ansioluettelo](https://markussilvo.fi/cv)
 
 ## Työ
 
@@ -35,7 +35,7 @@ Käyttötuki, verkkosivut ja web-palvelimet. Etsin vakituista työpaikkaa Salon,
 
 **IT support specialist** · Salo, Finland
 
-User support, websites and web servers. Looking for a permanent job in the Salo, Turku or Tampere region. [CV](https://markussilvo.fi/cv)
+User support, websites and web servers. Looking for a permanent job in the Salo, Turku or Tampere region, also hybrid or remote. [CV](https://markussilvo.fi/cv)
 
 ### Work
 
